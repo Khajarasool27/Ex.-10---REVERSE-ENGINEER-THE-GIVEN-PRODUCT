@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 27/12/2024
+### DATE: 25/11/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,7 +33,7 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/user-attachments/assets/a9f193c1-0ea6-4668-9645-e57b2d197a1e)
+![image](https://github.com/user-attachments/assets/c4a7ed3b-26c7-43e2-8511-c4b2e1670576)
 
 
 ### Name:B.Khaja Rasool
